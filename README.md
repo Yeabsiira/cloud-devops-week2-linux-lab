@@ -6,4 +6,3 @@ This repository contains the completion certificates for Week 3 tasks covering f
 - **Introduction to Amazon EC2**
 - **Introduction to Amazon Simple Storage Service (S3)**
 
-## 📁 Repository Structure
